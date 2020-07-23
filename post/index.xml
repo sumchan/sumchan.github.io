@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://sumchan.github.io/post/</link>
+    <link>https://sumchan.github.io/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2020 09:41:11 +0200</lastBuildDate>
     
-	<atom:link href="http://sumchan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sumchan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Homemade Pad Thai</title>
-      <link>http://sumchan.github.io/post/homemade-pad-thai/</link>
+      <link>https://sumchan.github.io/post/homemade-pad-thai/</link>
       <pubDate>Thu, 23 Jul 2020 09:41:11 +0200</pubDate>
       
-      <guid>http://sumchan.github.io/post/homemade-pad-thai/</guid>
+      <guid>https://sumchan.github.io/post/homemade-pad-thai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Sum Youtube Cooking Channel</title>
-      <link>http://sumchan.github.io/post/my-first-post/</link>
+      <link>https://sumchan.github.io/post/my-first-post/</link>
       <pubDate>Thu, 23 Jul 2020 09:40:11 +0200</pubDate>
       
-      <guid>http://sumchan.github.io/post/my-first-post/</guid>
+      <guid>https://sumchan.github.io/post/my-first-post/</guid>
       <description>Link to Channel</description>
     </item>
     
